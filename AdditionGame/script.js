@@ -14,7 +14,7 @@ document.getElementById("checkButton").addEventListener("click", function() {
         result.classList.remove("wrong-answer");
         result.classList.add("right-answer");
     } else {
-        result.textContent = "Please try again!!";
+        result.textContent = "Please try again!";
         result.classList.add("wrong-answer");
         result.classList.remove("right-answer");
     }
