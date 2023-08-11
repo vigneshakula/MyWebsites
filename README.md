@@ -1,1 +1,1 @@
-# All the mini Websites i have created will be there in this repository 😊.
+# All the Mini Websites i have created will be there in this repository 😊.
